@@ -11,7 +11,7 @@ function ImageLinkForm({ onInputChange, onButtonSubmit }) {
             </div>
             <div className='center'>
                 <div className='form pa4 br3 shadow-5'>
-                    <input className='f4 pa2 w-70'
+                    <input className='f4 pa2 w-70 inputBar'
                         type='text'
                         onChange={onInputChange} />
                     <button

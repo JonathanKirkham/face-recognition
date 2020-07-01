@@ -1,5 +1,10 @@
 nav {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-evenly;
     list-style: none;
+    transform: translateY(1015%);
+}
+
+li {
+    border-radius: 25px 25px 0 0;
 }
